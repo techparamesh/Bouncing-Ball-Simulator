@@ -1,4 +1,4 @@
-# Bouncing-Ball-Simulator [![](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/) [![platform](https://img.shields.io/badge/platform-windows-green.svg)]
+# Bouncing-Ball-Simulator &nbsp; [![](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/) [![platform](https://img.shields.io/badge/platform-windows-green.svg)]
 Bouncing ball simulator game build using python
 # Getting Started
 ## Pre-requisites
